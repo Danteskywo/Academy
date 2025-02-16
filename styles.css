@@ -1,3 +1,6 @@
-<style>
- p {color: red;}.text {font-size: 24px;}
-</style>
+
+ p {color: red;}
+ .text {font-size: 24px;}
+img {
+    border: 2px solid grey;
+}
